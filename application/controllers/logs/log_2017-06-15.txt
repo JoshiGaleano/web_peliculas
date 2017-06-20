@@ -1,0 +1,7 @@
+[2017-06-15 16:11:11.116921] [info] Valoracines
+[2017-06-15 16:11:11.144778] [error] Oh error.
+[2017-06-15 16:11:11.144943] [debug] Valoración guardadad en la base de datos.
+    id_cliente: '2'
+    id_pelicula: '6'
+    valoracion: '2'
+    fecha: '2017-06-15 16:11:10'

@@ -1,0 +1,18 @@
+[2017-06-15 16:13:30.589720] [info] Valoracines
+[2017-06-15 16:13:30.590271] [debug] Valoración guardadad en la base de datos.
+    id_cliente: '2'
+    id_pelicula: '6'
+    valoracion: '8'
+    fecha: '2017-06-15 16:13:30'
+[2017-06-15 16:13:58.381030] [info] Valoracines
+[2017-06-15 16:13:58.381622] [debug] Valoración guardadad en la base de datos.
+    id_cliente: '2'
+    id_pelicula: '6'
+    valoracion: '10'
+    fecha: '2017-06-15 16:13:58'
+[2017-06-15 16:15:17.835973] [info] Valoraciones
+[2017-06-15 16:15:17.836283] [debug] Valoración guardadad en la base de datos.
+    id_cliente: '2'
+    id_pelicula: '9'
+    valoracion: '8'
+    fecha: '2017-06-15 16:15:17'

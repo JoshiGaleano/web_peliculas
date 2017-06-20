@@ -1,0 +1,11 @@
+.m-20{
+	margin: 20px 0 20px 0;
+}
+
+.centered {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	/* bring your own prefixes */
+	transform: translate(-50%, -50%);
+}
